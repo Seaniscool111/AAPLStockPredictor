@@ -1,4 +1,4 @@
-# AAPLStockPredictor
+# StockPredictor
 ## Description
 In this project, I analyzed the stock, Apple Inc. (AAPL), trying to predict the closing stock using Python and Machine Learning (LSTM). Using historical market data from Yahoo Finance and a Long Short-Term Memory (LSTM) neural network, the model learns patterns in price movement, volatility and momentum to forecast future stock trends.
 
